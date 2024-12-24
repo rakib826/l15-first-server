@@ -2,5 +2,8 @@
   "name": "l15-hello",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
 }
